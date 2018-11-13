@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="248dp"
+        android:layout_height="174dp"
+        android:background="@color/sari"
+        android:text="@string/dene"
+        android:textSize="20sp"
+        android:inputType="" />
+
+
+</LinearLayout>

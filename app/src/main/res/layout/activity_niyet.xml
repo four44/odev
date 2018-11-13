@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Niyet">
+
+    <TextView
+        android:id="@+id/textvview"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_margin="10dp"
+        android:textAppearance="?android:attr/textAppearance" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Resim Çek"
+        android:id="@+id/resimCek"
+        android:layout_below="@+id/textView"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@color/gri"
+        android:id="@+id/resimGoster"
+        />
+
+</LinearLayout>

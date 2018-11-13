@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MerhabaAndroid</string>
+    <string name="dene">mavi</string>
+    <string name="logo"></string>
+    <string name="kullanici_girisi">Kullanıcı Girişi</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris">Giriş</string>
+    <string name="action_settings">ayarlar</string>
+    <string name="hakkında">hakkında</string>
+    <string name="paylas">paylas</string>
+    <string name="wifi"> wifi</string>
+</resources>
